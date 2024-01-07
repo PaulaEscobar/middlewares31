@@ -1,0 +1,2 @@
+el ususario ingreso a la ruta: /error 
+el ususario ingreso a la ruta: /favicon.ico 
