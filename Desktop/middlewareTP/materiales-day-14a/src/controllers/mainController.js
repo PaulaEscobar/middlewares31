@@ -1,12 +1,7 @@
-
-
 const mainConrtroller = {
-    index: (req, res, next) => {
-        res.render('index')
-    }
+  index: (req, res, next) => {
+    res.render("index");
+  },
+};
 
-    
-}
-
-
-module.exports = mainConrtroller
+module.exports = mainConrtroller;
